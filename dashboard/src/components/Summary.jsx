@@ -8,7 +8,7 @@ const Summary = () => {
         <hr className="divider" />
       </div>
 
-      <div className="section">
+       <div className="section">
         <span>
           <p>Equity</p>
         </span>
