@@ -13,7 +13,7 @@ const { OrdersModel } = require("./model/OrdersModel");
 const User = require("./model/UserModel");
 const { createSecretToken } = require("./util/SecretToken");
 
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 8001;
 const uri = process.env.MONGO_URL;
 
 const app = express();

@@ -6,9 +6,9 @@ function Footer() {
       <div className="container border-top mt-5">
         <div className="row mt-5">
           <div className="col">
-           <h3>EquiTrade</h3>
+           <h3>Inve$to</h3>
             <p>
-              &copy; 2020 - 2025, Not EquiTrade Broking Ltd. All rights reserved.
+              &copy; 2020 - 2025, Not Inve$to Broking Ltd. All rights reserved.
             </p>
           </div>
           <div className="col">
@@ -23,11 +23,11 @@ function Footer() {
             <br />
             <a href="">Careers</a>
             <br />
-            <a href="">EquiTrade.tech</a>
+            <a href="">Ince$to.tech</a>
             <br />
             <a href="">Press & media</a>
             <br />
-            <a href="">EquiTrade cares (CSR)</a>
+            <a href="">Inve$to cares (CSR)</a>
             <br />
           </div>
           <div className="col">
@@ -55,11 +55,11 @@ function Footer() {
         </div>
         <div className="mt-5 text-muted" style={{ fontSize: "14px" }}>
          <p>
-  EquiTrade Broking Pvt. Ltd.: Member of NSE & BSE – SEBI Registration No.:
+  Investo Broking Pvt. Ltd.: Member of NSE & BSE – SEBI Registration No.:
   INZ0000XXXXX. Depository services are provided through EquiTrade Securities
   Pvt. Ltd. – SEBI Registration No.: IN-DP-XXX-20XX. Commodity trading services
   are offered via EquiTrade Commodities Pvt. Ltd. – MCX: XXXXX – SEBI
-  Registration No.: INZ0000XXXXX. Registered Office: EquiTrade Broking Pvt.
+  Registration No.: INZ0000XXXXX. Registered Office: Investo Broking Pvt.
   Ltd., #XXX, 4th Cross, Tech Park Road, J.P Nagar Phase 4, Bengaluru – 5600XX,
   Karnataka, India. For grievances related to securities broking, please
   contact support@equitrade.com and for depository-related issues write to
@@ -89,7 +89,7 @@ function Footer() {
   intermediaries. Investors subscribing to IPOs are not required to issue a
   cheque. Kindly mention your bank account details and authorize the bank for
   payment in case of allotment. In case of non-allotment, funds will remain in
-  your bank account. EquiTrade does not provide stock tips or authorize any
+  your bank account. Investo does not provide stock tips or authorize any
   individual to trade on behalf of clients. If you come across anyone
   claiming to represent EquiTrade and offering such services, please report
   the same through our official support channels.
